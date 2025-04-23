@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design College</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <img src="/images/logo.png" alt="College Logo">
+        </div>
+        <h1><p class="new" style="color: black;">सरदार वल्लभभाई राष्ट्रीय प्रौद्योगिकी संस्थान, सूरत</p>
+        <p class="new" style="color: black;">Sardar Vallabhbhai National Institute of Technology, Surat</p>
+
+        </h1>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <ul>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Administration</a></li>
+            <li><a href="#">Academics</a></li>
+            <li><a href="#">Departments</a></li>
+            <li><a href="#">Student Life</a></li>
+            <li><a href="#">Research</a></li>
+            <li><a href="#">Careers</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <img src="/images/bg.jpg" alt="Event Banner">
+    </section>
+
+
+    <!-- Sidebar -->
+    <aside class="sidebar1" style="text-align: center;">
+        <ul>
+            <li>Minutes of Meetings</li>
+            <li>Achievements</li>
+            <li>Central Library</li>
+            <li>Alumni</li>
+            <li>Scholarships</li>
+            <li>Hostel</li>
+            <li>Fee Payment</li>
+            <li>Academic Calendar</li>
+        </ul>
+        </aside>
+    </aside>
+    <aside class="sidebar2" style="text-align: center;">
+        <ul>
+            <li>Admission</li>
+            <li>NSS</li>
+            <li>Hostel</li>
+            <li>NCC</li>
+            <li>Magazine</li>
+            <li>Newsletter</li>
+            <li>Career</li>
+            <li>Employee Corner</li>
+        </ul>
+        </aside>
+    </aside>
+    
+
+    <!-- Main Content
+    <section class="content">
+        <h2>Welcome to Our College</h2>
+        <p>This institution is committed to excellence in education, research, and development.</p>
+    </section> -->
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Design College | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>

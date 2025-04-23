@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Clone</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="top-bar">
+            <div class="logo">Amazon</div>
+            <div class="search-bar">
+                <input type="text" placeholder="Search...">
+                <button id="icon">
+                    <img src="/images/search.png" alt="Search Icon" style="width: 20px; height: 20px;">
+                </button></button>
+            </div>
+            <div class="account">
+                <span>Sign In</span> | <span>Cart 🛒</span>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li>Best Sellers</li>
+                <li>Today's Deals</li>
+                <li>Customer Service</li>
+                <li>Prime</li>
+                <li>Fashion</li>
+                <li>Books</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="banner">
+            <div class="banner-content">
+                <h1 style="font-size: 3rem; color: #00d9ff; text-align: center; margin-bottom: 0.5rem; font-weight: bold; font-family: Arial, sans-serif;"></h1>
+                <p style="font-size: 5rem; color: #00bbff; text-align: center; margin-top: 0;"></p>
+            </div>
+        </section>
+
+        <section class="categories">
+            <div class="category">
+                <h3>Cozy winter style for her</h3>
+                <img src="/images/coat.jpg" alt="Winter Style">
+            </div>
+            <div class="category">
+                <h3>Bring in the fresh energy</h3>
+                <img src="/images/yoga.jpg" alt="Fitness Equipment">
+            </div>
+            <div class="category">
+                <h3>Must-see fashion deals</h3>
+                <img src="/images/fashion.png" alt="Fashion Deals">
+            </div>
+        </section>
+
+        <section class="sign-in">
+            <h3>Sign in for the best experience</h3>
+            <button>Sign in securely</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Amazon Clone. For educational purposes only.</p>
+    </footer>
+</body>
+</html>
